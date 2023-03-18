@@ -6,7 +6,7 @@ Finally, I added a search bar to practice with changes in state and filtering.
 
 The website is also fully dynamic and mobile-friendly. 
 
-This project was created along an Udemey Course, which can be found[here](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/#reviews).
+This project was created along an Udemy Course, which can be found [here](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/#reviews).
 
 ## To Run The App on Your Machine
 
