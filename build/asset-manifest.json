@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f96162f7.css",
+    "main.js": "/static/js/main.de545ace.js",
+    "static/js/787.c9d89484.chunk.js": "/static/js/787.c9d89484.chunk.js",
+    "static/media/SuperMario256.ttf": "/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
+    "index.html": "/index.html",
+    "main.f96162f7.css.map": "/static/css/main.f96162f7.css.map",
+    "main.de545ace.js.map": "/static/js/main.de545ace.js.map",
+    "787.c9d89484.chunk.js.map": "/static/js/787.c9d89484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f96162f7.css",
+    "static/js/main.de545ace.js"
+  ]
+}
