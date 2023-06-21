@@ -1,6 +1,6 @@
 # Robot Filtering: A Small React Project to test State Changes, API's, and Website Styling
 
-A small side project I created to get comfortable with using React. The website fetches a list of users from a simple json user generator, found [here](https://jsonplaceholder.typicode.com/users). After getting the list of users, a card is then generated with their basic information and a randomly generated cartoon. The cartoon generator is found [here](https://robohash.org/1?200x200) and can be modified to add a hash and image size. 
+A small side project I created to get comfortable with using React. The [website](https://ben-sikora.github.io/robot_practice/) fetches a list of users from a simple json user generator, found [here](https://jsonplaceholder.typicode.com/users). After getting the list of users, a card is then generated with their basic information and a randomly generated cartoon. The cartoon generator is found [here](https://robohash.org/1?200x200) and can be modified to add a hash and image size. 
 
 Finally, I added a search bar to practice with changes in state and filtering.
 
