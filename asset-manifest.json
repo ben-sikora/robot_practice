@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kendo-demo/static/css/main.57043424.css",
-    "main.js": "/kendo-demo/static/js/main.a76845b7.js",
-    "static/js/787.c9d89484.chunk.js": "/kendo-demo/static/js/787.c9d89484.chunk.js",
-    "static/media/SuperMario256.ttf": "/kendo-demo/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
-    "index.html": "/kendo-demo/index.html",
-    "main.57043424.css.map": "/kendo-demo/static/css/main.57043424.css.map",
-    "main.a76845b7.js.map": "/kendo-demo/static/js/main.a76845b7.js.map",
-    "787.c9d89484.chunk.js.map": "/kendo-demo/static/js/787.c9d89484.chunk.js.map"
+    "main.css": "/robot_practice/static/css/main.c9e4a01a.css",
+    "main.js": "/robot_practice/static/js/main.e79975d1.js",
+    "static/js/787.c9d89484.chunk.js": "/robot_practice/static/js/787.c9d89484.chunk.js",
+    "static/media/SuperMario256.ttf": "/robot_practice/static/media/SuperMario256.727519250ea444b6c5ce.ttf",
+    "index.html": "/robot_practice/index.html",
+    "main.c9e4a01a.css.map": "/robot_practice/static/css/main.c9e4a01a.css.map",
+    "main.e79975d1.js.map": "/robot_practice/static/js/main.e79975d1.js.map",
+    "787.c9d89484.chunk.js.map": "/robot_practice/static/js/787.c9d89484.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.57043424.css",
-    "static/js/main.a76845b7.js"
+    "static/css/main.c9e4a01a.css",
+    "static/js/main.e79975d1.js"
   ]
 }
